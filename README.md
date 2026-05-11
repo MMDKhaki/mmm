@@ -114,7 +114,8 @@ A **v2ray generation config** system built entirely on **GitHub Workflows** usin
 -  I turn coffee into code (and sometimes chaos).  
 -  My keyboard is my weapon of choice.  
 -  I believe “hacking” is just curiosity applied correctly.  
--  Im Student and live in iran and i dont know why i install iran – still figuring it out!  
+-  Im Student and live in iran and i dont know why i install iran – still figuring it out!
+-  How Can I UnInstall Iran???!?!?!?!?!
 
 > **Philosophy:** "Why write boring code when you can write LEGENDARY code that makes people question reality?" – Shayan Ghadamian  
 
