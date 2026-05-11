@@ -19,7 +19,7 @@
 class MamadKhaki:
     def __init__(self):
         self.name       = "Mamad Khaki"
-        self.github     = "vardon000"
+        self.github     = "mmdkhaki"
         self.role       = "White Hat Hacker & Developer"
         self.team       = "MeherSazPars"
         self.location   = "Iran"
