@@ -106,7 +106,7 @@ A **v2ray generation config** system built entirely on **GitHub Workflows** usin
 
 [![GitHub](https://img.shields.io/badge/GitHub-vardon000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vardon000)
 [![Email](https://img.shields.io/badge/Email-Contact-45B7D1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamad.khaki@example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-+98_XXX_XXX_XX_XX-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![Telegram](https://img.shields.io/badge/Telegram-I dont Have-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 
 ---
 
